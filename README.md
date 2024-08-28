@@ -67,5 +67,6 @@ npm start
 
 
 ##Contact
-If you have any questions or feedback, please reach out to your-email@example.com.chowdharybhoomika@gmail.com
+If you have any questions or feedback, please reach out to chowdharybhoomika@gmail.com.
  
+
