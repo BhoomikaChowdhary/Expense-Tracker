@@ -25,25 +25,20 @@ The Expense Tracker is a web application designed to help users track their dail
    cd backend
 2. Install the necessary dependencies:
    ```bash
-   Copy code
    npm install
 3. Start the backend server:
    ```bash
-   Copy code
    node server.js
 ### Frontend Setup
 
 1. Navigate to the **frontend** directory:
    ```bash
-   Copy code
    cd frontend
 2. Install the necessary dependencies:
    ```bash
-   Copy code
    npm install
 3. Start the frontend application:
    ```bash
-   Copy code
    npm start
 ## Usage
 1. *Start the Backend Server:* Ensure the backend server is running and connected to MongoDB.
