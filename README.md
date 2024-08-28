@@ -30,35 +30,42 @@ Ensure you have the following installed:
 1. Navigate to the `backend` directory:
    ```bash
    cd backend
-Install the necessary dependencies:
+2. Install the necessary dependencies:
 
-bash
+```bash
 Copy code
 npm install
-Start the backend server:
 
-bash
+3. Start the backend server:
+
+```bash
 Copy code
 node server.js
-Frontend Setup
-Navigate to the frontend directory:
+### Frontend Setup
 
-bash
+1. Navigate to the **frontend** directory:
+
+```bash
 Copy code
 cd frontend
-Install the necessary dependencies:
 
-bash
+2. Install the necessary dependencies:
+
+```bash
 Copy code
 npm install
-Start the frontend application:
 
-bash
+3. Start the frontend application:
+
+```bash
 Copy code
 npm start
-Usage
-Start the Backend Server: Ensure the backend server is running and connected to MongoDB.
-Start the Frontend Application: Launch the React app to interact with the backend and view/manage expenses.
-Contact
-If you have any questions or feedback, please reach out to chowdharybhoomika@gmail.com
+
+## Usage
+1. **Start the Backend Server:** Ensure the backend server is running and connected to MongoDB.
+2. **Start the Frontend Application:** Launch the React app to interact with the backend and view/manage expenses.
+
+
+##Contact
+If you have any questions or feedback, please reach out to your-email@example.com.chowdharybhoomika@gmail.com
  
